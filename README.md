@@ -40,3 +40,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+## Support 🇮🇩
+<a href="https://t.me/LetterU">
+    <p>
+        Telegram
+    </p>
+</a>
+<a href="https://t.me/BitLy_Shorten_Support">
+    <p>
+        Telegram Channel
+    </p>
+</a>
